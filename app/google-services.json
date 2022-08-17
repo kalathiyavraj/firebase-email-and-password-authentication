@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651795331075",
+    "project_id": "email-and-password-login-11688",
+    "storage_bucket": "email-and-password-login-11688.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651795331075:android:428ded89dcd3a217caf636",
+        "android_client_info": {
+          "package_name": "com.example.firebase_emaillogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651795331075-ourt0vl11n6iitv7v2cfpdt108eehjvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU1veRb1SE-RTO_veia6CrURr6w3sxHTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651795331075-ourt0vl11n6iitv7v2cfpdt108eehjvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
